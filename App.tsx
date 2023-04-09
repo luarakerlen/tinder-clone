@@ -1,6 +1,5 @@
 import { NavigationContainer } from '@react-navigation/native';
-import { StyleSheet } from 'react-native';
-import { StackNavigator } from './StackNavigator';
+import { StackNavigator } from './src/routes/StackNavigator';
 
 export default function App() {
 	return (
